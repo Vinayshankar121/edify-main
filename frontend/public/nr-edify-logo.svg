@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 973 768" role="img" aria-labelledby="title desc">
+  <title id="title">NR E-School</title>
+  <desc id="desc">Navy and orange NR school mark with E-SCHOOL lettering.</desc>
+  <rect width="973" height="768" fill="#fff"/>
+  <path fill="#0b2f70" d="M83 113h120c43 0 71 14 101 47l216 245v184c0 10-7 12-14 3L218 216v279c0 44 10 60 38 69l18 5c13 4 12 12-3 13H99c-12 0-14-7-2-11l15-5c27-9 40-28 40-64V177c0-35-11-50-41-56l-27-5c-7-2-7-3-1-3Z"/>
+  <path fill="#f04b12" d="M611 113c69-4 139-2 185 26 48 29 72 72 72 122 0 54-28 86-79 100 39 13 65 39 85 80l39 82c12 25 24 39 43 45 8 3 8 9-3 9h-94c-31 0-48-12-62-37l-60-113c-14-25-31-39-58-40l-119-1v-40c39-3 77-4 112-4 48 0 77-26 77-72 0-48-32-78-81-82l-76-5Z"/>
+  <path fill="#0b2f70" d="M350 198c33 13 62 25 91 25 47 0 88-31 139-91l31-37c5-6 11-3 8 5l-49 157c-17 54-25 94-25 143v184c0 12-8 14-15 3L519 405c-31-67-68-122-116-171-18-18-36-29-53-36Z"/>
+  <circle cx="436" cy="132" r="67" fill="#0b2f70"/>
+  <text x="85" y="708" fill="#0b2f70" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="800" letter-spacing="17">E-SCHOOL</text>
+</svg>
